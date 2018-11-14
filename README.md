@@ -3,6 +3,8 @@ Download your Brightspace grades to an Excel spreadsheet. No more copying and pa
 
 Just fill in your Brightspace username and password in `brightspace.js`.
 
+![alt text](https://i.imgur.com/otz67cX.jpg "")
+
 ## Set up
 
 Run `pip -r requirements.txt`
